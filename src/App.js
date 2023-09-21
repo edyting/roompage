@@ -106,7 +106,7 @@ function App() {
             <img src={bimg1} alt="" className='h-full full' />
            </div>
             {/* second */}
-            <div className=" w-full md:w-45 flex justify-center items-center h-full">
+            <div id='about' className=" w-full md:w-45 flex justify-center items-center h-full">
               <div className="container w-10/12 pt-8 pb-8">
                 <h3 className='text-xl mb-4 font-bold tracking-[0.2rem]'> ABOUT OUR FURNITURE</h3>
                 <p className='text-md text-slate-600'>
